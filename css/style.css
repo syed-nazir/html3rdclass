@@ -1,0 +1,40 @@
+.prac{
+	color: green
+}
+.header{
+	min-height:100px;
+	background-color:black;
+}
+.wrapper{
+	overflow:hidden; 
+}
+.blog{
+	float:left;
+	width:50%;
+	min-height:400px;
+	background-color:#3B7A57;
+}
+.contact{
+	float:right;
+	width:50%;
+	min-height:400px;
+	background-color:#4B5320;
+}
+.single{
+	float:left;
+	width:33.3%;
+	min-height:160px;
+}
+.box11{
+	background-color:orange;
+}
+.box12{
+	background-color:blue;
+}
+.box13{
+	background-color:green;
+}
+.footer{
+	min-height:90px;
+	background-color:#1B4D3E;
+}
